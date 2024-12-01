@@ -15,15 +15,8 @@ This project is a Power BI dashboard designed to analyze Zomato data and uncover
 ## Tools & Technologies Used
 
 - **Power BI**: Used for creating visualizations, reports, and interactive dashboards.
-- **DAX**: Employed for calculating key metrics like average ratings, review counts, and the most popular cuisines.
 - **Data Sources**: Zomato dataset containing information on restaurants, customer reviews, and ratings.
 
-## Data Analysis Techniques
-
-- **Exploratory Data Analysis (EDA)**: Performed initial data exploration to understand the structure of the dataset and identify key patterns.
-- **PCA for Dimensionality Reduction**: Used Principal Component Analysis (PCA) to reduce dimensions and simplify the analysis.
-- **Clustering**: Applied clustering methods like K-Means to group similar data points and identify trends.
-- **Correlation Analysis**: Used correlation methods to explore relationships between variables like cuisine popularity, customer ratings, and location.
 
 ## How to Use
 
